@@ -1,6 +1,6 @@
 {
   "name": "kakao-alimtalk-bizmsg",
-  "version": "0.0.1",
+  "version": "0.9.0",
   "description": "API Client to send Kakao Alimtalk with BizMsg Provider",
   "license": "MIT",
   "author": "Claud D. Park <posquit0.bj@gmail.com> (http://www.posquit0.com)",
