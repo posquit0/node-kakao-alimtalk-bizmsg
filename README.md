@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/posquit0/node-kakao-alimtalk-bizmsg" title="Koa Legit">
-    <img alt="Koa Legit" src="http://www.hey.fr/fun/emoji/twitter/en/icon/twitter/706-emoji_twitter_horizontal_traffic_light.png" width="220px" />
+    <img alt="Kakao Alimtalk BizMsg" src="http://cfile29.uf.tistory.com/image/24315445577F860E321F9C" width="100%" />
   </a>
   <br />
-  <h1>Koa Legit</h1>
+  <h1>kakao-alimtalk-bizmsg</h1>
 </div>
 
 <p align="center">
