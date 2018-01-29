@@ -1,7 +1,7 @@
 {
   "name": "kakao-alimtalk-bizmsg",
   "version": "0.0.1",
-  "description": "Easy streaming upload and download for storages(File System, AWS S3)",
+  "description": "API Client to send Kakao Alimtalk with BizMsg Provider",
   "license": "MIT",
   "author": "Claud D. Park <posquit0.bj@gmail.com> (http://www.posquit0.com)",
   "contributors": [],
