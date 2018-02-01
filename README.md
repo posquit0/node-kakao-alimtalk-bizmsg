@@ -17,11 +17,11 @@
   <a href="https://coveralls.io/github/posquit0/node-kakao-alimtalk-bizmsg">
     <img src="https://coveralls.io/repos/github/posquit0/node-kakao-alimtalk-bizmsg/badge.svg" alt='Coverage Status' />
   </a>
-  <a href="https://badge.fury.io/js/node-kakao-alimtalk-bizmsg">
-    <img alt="npm version" src="https://badge.fury.io/js/node-kakao-alimtalk-bizmsg.svg" />
+  <a href="https://badge.fury.io/js/kakao-alimtalk-bizmsg">
+    <img alt="npm version" src="https://badge.fury.io/js/kakao-alimtalk-bizmsg.svg" />
   </a>
-  <a href="https://www.npmjs.com/package/node-kakao-alimtalk-bizmsg">
-    <img alt="npm" src="https://img.shields.io/npm/dt/node-kakao-alimtalk-bizmsg.svg" />
+  <a href="https://www.npmjs.com/package/kakao-alimtalk-bizmsg">
+    <img alt="npm" src="https://img.shields.io/npm/dt/kakao-alimtalk-bizmsg.svg" />
   </a>
   <a href="https://david-dm.org/posquit0/node-kakao-alimtalk-bizmsg">
     <img alt="npm" src="https://img.shields.io/david/posquit0/node-kakao-alimtalk-bizmsg.svg?style=flat-square" />
